@@ -55,6 +55,10 @@
             // 
             // btn_FivemPathOK
             // 
+            this.btn_FivemPathOK.FlatAppearance.BorderSize = 0;
+            this.btn_FivemPathOK.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_FivemPathOK.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.btn_FivemPathOK.ForeColor = System.Drawing.Color.White;
             this.btn_FivemPathOK.Location = new System.Drawing.Point(100, 121);
             this.btn_FivemPathOK.Name = "btn_FivemPathOK";
             this.btn_FivemPathOK.Size = new System.Drawing.Size(75, 23);
@@ -65,6 +69,10 @@
             // 
             // btn_FivemPathCancel
             // 
+            this.btn_FivemPathCancel.FlatAppearance.BorderSize = 0;
+            this.btn_FivemPathCancel.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_FivemPathCancel.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.btn_FivemPathCancel.ForeColor = System.Drawing.Color.White;
             this.btn_FivemPathCancel.Location = new System.Drawing.Point(191, 121);
             this.btn_FivemPathCancel.Name = "btn_FivemPathCancel";
             this.btn_FivemPathCancel.Size = new System.Drawing.Size(75, 23);

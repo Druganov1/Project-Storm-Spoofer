@@ -42,6 +42,8 @@
             // 
             // btn_ActivateKey
             // 
+            this.btn_ActivateKey.FlatAppearance.BorderSize = 0;
+            this.btn_ActivateKey.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btn_ActivateKey.Location = new System.Drawing.Point(126, 81);
             this.btn_ActivateKey.Name = "btn_ActivateKey";
             this.btn_ActivateKey.Size = new System.Drawing.Size(75, 23);
