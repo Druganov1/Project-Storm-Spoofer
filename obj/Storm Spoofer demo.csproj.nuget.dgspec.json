@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Nawid\\OneDrive - COG\\Prive\\Storm Spoofer demo\\Storm Spoofer demo.csproj": {}
+    "C:\\Project Storm Spoofer\\Storm Spoofer\\Storm Spoofer demo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Nawid\\OneDrive - COG\\Prive\\Storm Spoofer demo\\Storm Spoofer demo.csproj": {
+    "C:\\Project Storm Spoofer\\Storm Spoofer\\Storm Spoofer demo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nawid\\OneDrive - COG\\Prive\\Storm Spoofer demo\\Storm Spoofer demo.csproj",
+        "projectUniqueName": "C:\\Project Storm Spoofer\\Storm Spoofer\\Storm Spoofer demo.csproj",
         "projectName": "Storm Spoofer demo",
-        "projectPath": "C:\\Users\\Nawid\\OneDrive - COG\\Prive\\Storm Spoofer demo\\Storm Spoofer demo.csproj",
+        "projectPath": "C:\\Project Storm Spoofer\\Storm Spoofer\\Storm Spoofer demo.csproj",
         "packagesPath": "C:\\Users\\Nawid\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nawid\\OneDrive - COG\\Prive\\Storm Spoofer demo\\obj\\",
+        "outputPath": "C:\\Project Storm Spoofer\\Storm Spoofer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
