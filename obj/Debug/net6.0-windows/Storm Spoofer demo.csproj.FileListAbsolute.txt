@@ -22,3 +22,27 @@ C:\Users\Nawid\OneDrive - COG\Prive\Storm Spoofer demo\obj\Debug\net6.0-windows\
 C:\Users\Nawid\OneDrive - COG\Prive\Storm Spoofer demo\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
 C:\Users\Nawid\OneDrive - COG\Prive\Storm Spoofer demo\obj\Debug\net6.0-windows\Storm_Spoofer_demo.EnterKey.resources
 C:\Users\Nawid\OneDrive - COG\Prive\Storm Spoofer demo\obj\Debug\net6.0-windows\Storm_Spoofer_demo.frm_FiveMPathMissing.resources
+C:\Project Storm Spoofer\Storm Spoofer\bin\Debug\net6.0-windows\Storm Spoofer demo.exe
+C:\Project Storm Spoofer\Storm Spoofer\bin\Debug\net6.0-windows\Storm Spoofer demo.deps.json
+C:\Project Storm Spoofer\Storm Spoofer\bin\Debug\net6.0-windows\Storm Spoofer demo.runtimeconfig.json
+C:\Project Storm Spoofer\Storm Spoofer\bin\Debug\net6.0-windows\Storm Spoofer demo.dll
+C:\Project Storm Spoofer\Storm Spoofer\bin\Debug\net6.0-windows\ref\Storm Spoofer demo.dll
+C:\Project Storm Spoofer\Storm Spoofer\bin\Debug\net6.0-windows\Storm Spoofer demo.pdb
+C:\Project Storm Spoofer\Storm Spoofer\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Project Storm Spoofer\Storm Spoofer\bin\Debug\net6.0-windows\System.Management.dll
+C:\Project Storm Spoofer\Storm Spoofer\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\Project Storm Spoofer\Storm Spoofer\obj\Debug\net6.0-windows\Storm Spoofer demo.csproj.AssemblyReference.cache
+C:\Project Storm Spoofer\Storm Spoofer\obj\Debug\net6.0-windows\Storm_Spoofer_demo.EnterKey.resources
+C:\Project Storm Spoofer\Storm Spoofer\obj\Debug\net6.0-windows\Storm_Spoofer_demo.Form1.resources
+C:\Project Storm Spoofer\Storm Spoofer\obj\Debug\net6.0-windows\Storm_Spoofer_demo.frm_FiveMPathMissing.resources
+C:\Project Storm Spoofer\Storm Spoofer\obj\Debug\net6.0-windows\Storm_Spoofer_demo.Properties.Resources.resources
+C:\Project Storm Spoofer\Storm Spoofer\obj\Debug\net6.0-windows\Storm Spoofer demo.csproj.GenerateResource.cache
+C:\Project Storm Spoofer\Storm Spoofer\obj\Debug\net6.0-windows\Storm Spoofer demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project Storm Spoofer\Storm Spoofer\obj\Debug\net6.0-windows\Storm Spoofer demo.AssemblyInfoInputs.cache
+C:\Project Storm Spoofer\Storm Spoofer\obj\Debug\net6.0-windows\Storm Spoofer demo.AssemblyInfo.cs
+C:\Project Storm Spoofer\Storm Spoofer\obj\Debug\net6.0-windows\Storm Spoofer demo.csproj.CoreCompileInputs.cache
+C:\Project Storm Spoofer\Storm Spoofer\obj\Debug\net6.0-windows\Storm Spoofer demo.csproj.CopyComplete
+C:\Project Storm Spoofer\Storm Spoofer\obj\Debug\net6.0-windows\Storm Spoofer demo.dll
+C:\Project Storm Spoofer\Storm Spoofer\obj\Debug\net6.0-windows\ref\Storm Spoofer demo.dll
+C:\Project Storm Spoofer\Storm Spoofer\obj\Debug\net6.0-windows\Storm Spoofer demo.pdb
+C:\Project Storm Spoofer\Storm Spoofer\obj\Debug\net6.0-windows\Storm Spoofer demo.genruntimeconfig.cache

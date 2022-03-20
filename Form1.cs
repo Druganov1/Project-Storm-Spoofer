@@ -23,7 +23,8 @@ namespace Storm_Spoofer_demo
         {
             InitializeComponent();
             Region = System.Drawing.Region.FromHrgn(CreateRoundRectRgn(0, 0, Width, Height, 20, 20));
-            
+            button1.BackColor = System.Drawing.Color.FromArgb(46, 51, 73);
+            button1.Region = System.Drawing.Region.FromHrgn(CreateRoundRectRgn(0, 0, button1.Width, button1.Height, 15, 20));
 
 
 
